@@ -1,0 +1,4 @@
+sqlite/nfl_bets.sqlite
+csv/nfl_game_data.csv
+json/settings.json
+__pycache__/
